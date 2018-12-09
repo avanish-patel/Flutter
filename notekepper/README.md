@@ -1,6 +1,6 @@
-# notekepper
+# Notekepper
 
-A new Flutter application.
+A Note taking Flutter application. Using SQLite to persist data locally.
 
 ## Getting Started
 
